@@ -1,4 +1,3 @@
-# React_projects_Nehal
 Project Highlights
 login_page
 A UI-centric React component/page likely demonstrating:
